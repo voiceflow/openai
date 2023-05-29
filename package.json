@@ -1,10 +1,10 @@
 {
-  "name": "@unique-ag/openai",
+  "name": "@voiceflow/openai",
   "version": "3.2.1",
   "description": "Node.js library for the Azure OpenAI API, forked from the official node package.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:unique-ag/openai-node.git"
+    "url": "git@github.com:voiceflow/openai.git"
   },
   "keywords": [
     "azure-openai",
@@ -14,13 +14,16 @@
     "gpt-3",
     "gpt3"
   ],
-  "author": "Unique AG",
+  "author": "Voiceflow",
   "contributors": [
     {
       "name": "OpenAI"
     },
     {
       "name": "Unique AG"
+    },
+    {
+      "name": "Voiceflow"
     }
   ],
   "license": "MIT",
