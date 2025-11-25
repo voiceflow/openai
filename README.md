@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Update Nov 24, 2025: This repository has been archived and will not accept further changes.
+
 # Azure OpenAI NodeJS Library
 
 This is a fork of the official [OpenAI Node.js library](https://github.com/openai/openai-node) that has been adapted to support the Azure OpenAI API. The objective of this library is to minimize the changes required to migrate from the official OpenAI library to Azure OpenAI or revert back to OpenAI.
